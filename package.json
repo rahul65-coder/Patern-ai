@@ -1,0 +1,11 @@
+{
+  "name": "pattern-cron",
+  "version": "1.0.0",
+  "description": "Auto pattern generator cron job",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^11.8.0",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.6.7"
+  }
+}
